@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2019 Andy Bell and other contributors
+Copyright (c) 2020 Andy Bell and other contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Change Points by Saladbowl77 and goahi:
+Delete a line under links
+Reset list marker position
+Warn when image source is not defined by show red element
+Add icons after links when using "icon_link" or "icon_link_blank"
