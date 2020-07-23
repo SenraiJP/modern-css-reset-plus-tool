@@ -23,12 +23,14 @@ A tiny little reset that you can use as the basis of your CSS projects. You can 
 NPM:
 
 ```console
-npm install --save-dev modern-css-reset
+npm install --save-dev modern-css-reset-plus-tool
 ```
 
 Yarn:
 
-Comming coon...
+```console
+yarn add --save-dev modern-css-reset-plus-tool
+```
 
 Unpkg CDN: 
 
